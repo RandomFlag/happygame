@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1585337967,
+	"version": 1585343699,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,6 +25,9 @@
 		"images/coollogo_com-sheet0.png",
 		"images/coollogo_com2-sheet0.png",
 		"images/g-sheet0.png",
+		"images/l-sheet0.png",
+		"images/r-sheet0.png",
+		"images/u-sheet0.png",
 		"media/phaserup6.ogg",
 		"media/desert_eagle_shoot_sound_effect_cs- (mp3cut.net).ogg",
 		"media/07037330 (mp3cut.net).ogg",
